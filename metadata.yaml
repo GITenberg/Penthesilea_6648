@@ -1,0 +1,40 @@
+_repo: Penthesilea_6648
+creator:
+  author:
+    agent_name: Kleist, Heinrich von
+    aliases:
+    - Von Kleist, Heinrich
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Kleist, H. V. (Heinrich von)
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+description: "Penthesilea (1808) is a tragedy by the German playwright Heinrich von\
+  \ Kleist about the mythological Amazon queen, Penthesilea, described as an exploration\
+  \ of sexual frenzy. Goethe rejected it as \"unplayable\".\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6648'
+  wikidata: Q451932
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Drama'
+- !lcsh 'Verse drama'
+- !lcsh 'Achilles (Mythological character) -- Drama'
+- !lcc 'PT'
+- !lcsh 'Penthesilea, Queen of the Amazons -- Drama'
+title: Penthesilea
+url: http://www.gutenberg.org/ebooks/6648
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B5%D1%81%D0%B8%D0%BB%D0%B5%D1%8F_(%D0%BF%D1%8C%D0%B5%D1%81%D0%B0)
+- https://fr.wikipedia.org/wiki/Penth%C3%A9sil%C3%A9e_(Kleist)
+- https://de.wikipedia.org/wiki/Penthesilea_(Kleist)
+- https://en.wikipedia.org/wiki/Penthesilea_(Kleist)
